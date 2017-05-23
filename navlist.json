@@ -1,0 +1,16 @@
+{"success":true,
+"navHeader":[{
+"message":"success",
+"headername":"Manage Environment"
+},
+{"message":"success",
+"headername":"Environment Provisioning"
+},
+{"message":"success",
+"headername":"Available Templates"
+},
+{"message":"success",
+"headername":"Administration",
+"subheader":["Template Category Master","Template Master","Team Master","Resource Master","Failed Provisioning","Manage Environments","Configure"]
+}
+]}
